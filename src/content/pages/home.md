@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "AAA Water Damage Restoration & Carpet Care | Restoration Services in Honolulu, HI"
-h1: "24/7 Restoration Services in Honolulu"
-meta_description: "AAA Water Damage Restoration & Carpet Care provides 24/7 water, fire, mold, and storm damage restoration across Honolulu and surrounding areas. Call (808) 349-3407."
-primary_keyword: "restoration services honolulu"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Honolulu, HI | AAA Water Damage Restoration & Carpet Care"
+h1: "24/7 Water Damage Restoration in Honolulu, HI"
+meta_description: "AAA Water Damage Restoration & Carpet Care provides water damage restoration in Honolulu, HI, answering 24/7. Call (808) 349-3407 now."
+primary_keyword: "water damage restoration honolulu"
+secondary_keywords: ["best restoration company in honolulu", "restoration company honolulu", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "794eb5b6b800a2e1"
