@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve in a Hawaii home?"
 published_at: "2026-06-23"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Christopher Pruett"
 ---
 When a pipe bursts, the first 10 minutes matter more than the next 10 hours. Shut off the main water supply valve immediately, don't wait to find the source of the leak, then cut power to any rooms where water is pooling near outlets or appliances. Once the water stops flowing and the electricity is safe, document everything with your phone camera before touching anything else. The steps below walk you through the full response, from the moment you hear that rush of water to the point where your home is dry and structurally sound again.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover flood damage in Hawaii?", "a
 published_at: "2026-08-26"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** A standard Hawaii homeowners policy (HO-3) does not cover flood damage from rising surface water, storm surge, or overland flow. Oahu homeowners need a separate flood insurance policy, either through FEMA's [National Flood Insurance Program (NFIP)](https://www.floodsmart.gov/) or a private carrier. NFIP building coverage tops out at $250,000 for residential structures and $100,000 for contents. There is a 30-day waiting period before coverage activates, so buying a policy the day before a storm does nothing. Condo owners face an additional gap between the master policy and their HO-6 unit coverage.
 

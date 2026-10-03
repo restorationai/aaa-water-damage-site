@@ -16,6 +16,7 @@ faq: [{"question": "Should I call a restoration company or my insurance company 
 published_at: "2026-06-30"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Choosing a restoration company after water damage, a fire, or a mold discovery is one of the worst decisions you'll ever have to make quickly. You're stressed, possibly displaced, and your phone is ringing with contractors you've never heard of. The short answer: verify credentials before you sign anything, get the scope of work in writing, and be cautious of anyone who shows up uninvited at your door. The rest of this guide walks you through exactly what to look for, and what should send you walking away.
 

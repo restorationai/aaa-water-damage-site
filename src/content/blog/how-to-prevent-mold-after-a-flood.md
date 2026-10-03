@@ -17,6 +17,7 @@ faq: [{"question": "How fast does mold grow after a flood in Hawaii?", "answer":
 published_at: "2026-09-03"
 services: ["mold-remediation", "mold-inspection-testing", "flood-damage-restoration", "flood-equipment-rental"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** In Honolulu and across Oahu, mold can begin colonizing wet building materials within 24 to 48 hours of a flood because ambient humidity already sits at 60 to 80 percent year-round. The window to prevent mold is not days, it is hours. Remove standing water immediately, pull up saturated carpet and flooring, run commercial-grade dehumidifiers and air movers continuously, and get a moisture reading on every wall cavity before you close anything up. If you cannot get structural moisture content below 16 percent within 48 hours, professional remediation is the next call.
 

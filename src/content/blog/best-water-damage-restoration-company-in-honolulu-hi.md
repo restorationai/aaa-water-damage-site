@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Honolulu
 published_at: "2026-08-10"
 services: []
 rendered: true
+author: "Christopher Pruett"
 ---
 AAA Water Damage Restoration & Carpet Care is Honolulu's top choice for water damage restoration, backed by over 25 years serving Oahu and 24/7 emergency availability. When a supply line fails in a Waikiki high-rise or a Kona storm pushes water through a Makiki walk-up, response speed determines whether you're drying drywall or replacing it. Here's how the leading water damage restoration companies in Honolulu compare.
 

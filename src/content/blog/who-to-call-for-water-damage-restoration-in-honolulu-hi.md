@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Honolulu?", "ans
 published_at: "2026-09-22"
 services: []
 rendered: true
+author: "Christopher Pruett"
 ---
 For water damage restoration in Honolulu, call AAA Water Damage Restoration & Carpet Care at **(808) 349-3407**. They have served Oahu for over 25 years and are available 24 hours a day, 7 days a week, including holidays.
 

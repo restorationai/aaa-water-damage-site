@@ -16,6 +16,7 @@ faq: [{"question": "Can I get sick just from being in a room where sewage backed
 published_at: "2026-06-26"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Sewage backup is one of the few home emergencies where the instinct to grab a mop and handle it yourself can genuinely make you sick. Raw sewage, whether it's backing up through a floor drain, a toilet, or a utility sink, contains bacteria like *E. coli* and *Salmonella*, hepatitis A virus, and parasites like *Giardia* and *Cryptosporidium*. These pathogens don't need you to drink the water to infect you. Skin contact, airborne droplets from splashing, and even touching a contaminated surface and then your face are enough. Here's what you need to understand before you touch anything.
 

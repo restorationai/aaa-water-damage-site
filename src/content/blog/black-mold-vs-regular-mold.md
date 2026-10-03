@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself, or do I need a professiona
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Most mold you find in a home is not the toxic black sludge people imagine when they hear the phrase "black mold." But some of it genuinely is, and telling the difference matters, because the cleanup approach is different and the health stakes can be higher. The short answer: color alone cannot tell you whether mold is dangerous. A patch of dark greenish-black mold on a bathroom tile might be harmless *Cladosporium*, while a patch of white or gray fuzz in a crawlspace could be *Stachybotrys chartarum*, the species most people mean when they say "toxic black mold." Here is how to actually distinguish them.
 

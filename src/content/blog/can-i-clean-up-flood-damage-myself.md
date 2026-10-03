@@ -17,6 +17,7 @@ faq: [{"question": "Can I clean up flood damage myself?", "answer": "You can han
 published_at: "2026-09-18"
 services: ["flood-damage-restoration", "sewage-cleanup", "flood-equipment-rental", "mold-remediation"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** You can handle minor, clean-water spills on hard surfaces yourself if the water source was unambiguously clean and the area dried within 24 hours. Flood water is different. Any water that entered your home from outside, overflowed a toilet or drain, or sat long enough to wick into walls and carpet padding is contaminated and carries real health risks. That water requires protective gear, proper extraction equipment, and in most cases professional remediation.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost?", "answer": "Wa
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "flood-equipment-rental"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Water damage restoration cost is built from five variables: the category of water involved, the square footage affected, which materials have to come out, how many days of drying equipment run, and the equipment count deployed. A small clean-water loss in one room costs far less than a Category 3 sewage event that soaks multiple floors. No honest contractor publishes a fixed price sheet because no two losses are the same, but understanding the cost drivers lets you read any estimate clearly and know whether the scope makes sense.
 

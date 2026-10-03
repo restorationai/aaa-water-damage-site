@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold start growing after a basement flood?"
 published_at: "2026-07-06"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Basement flooding in Hawaii might not conjure the same image as a Midwest storm surge, but Honolulu's heavy rain seasons, and the aging plumbing in many of the island's older homes, make water intrusion a real and recurring problem. The good news: most basement and ground-level flooding is preventable with a handful of targeted maintenance steps. Work through these eight before the next heavy rain rolls in, and you'll dramatically reduce the odds of waking up to standing water.
 

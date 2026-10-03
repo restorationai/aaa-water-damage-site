@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls where I can't see it?", "answer":
 published_at: "2026-06-30"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Mold can begin colonizing wet surfaces in as little as **24 to 48 hours** after water damage occurs. That's not a scare tactic, it's the biological reality of how mold spores work. Spores are already floating in the air of every home in Honolulu; all they need is moisture, a food source (drywall paper, wood framing, carpet backing), and warmth. Hawaii's humidity and average temperatures give mold nearly ideal conditions year-round, which means the clock starts ticking the moment a pipe bursts, a roof leaks, or a washing machine floods your laundry room.
 

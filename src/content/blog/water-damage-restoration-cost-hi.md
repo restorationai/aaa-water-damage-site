@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Hawaii?", "an
 published_at: "2026-09-20"
 services: []
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Water damage restoration in Hawaii typically costs $1,800 to $12,000 for most residential losses. Small clean-water spills run $1,200 to $3,500. Mid-size losses from a failed water heater or burst supply line land between $3,500 and $7,500. Large losses involving multiple rooms, Category 2 or 3 water, or multi-unit condo cascades can reach $10,000 to $20,000 or more. Every loss is different, and a written scope before work begins is the only reliable number.
 

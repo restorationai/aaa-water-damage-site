@@ -17,6 +17,7 @@ faq: [{"question": "Which neighborhoods on Oahu flood most often?", "answer": "K
 published_at: "2026-08-31"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Oahu's most flood-prone areas include Kaneohe and Kailua on the windward side (heavy Koolau rainfall, high water tables), the flat Ewa plain (poor drainage during Kona storms), and valley neighborhoods like Aina Haina and Palolo (steep ridges that funnel runoff). Flooding here hits slab-on-grade homes and single-wall cottages fast. If water enters your home, extract it within 24-48 hours, tropical humidity means mold can start in that window year-round.
 

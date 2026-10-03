@@ -16,6 +16,7 @@ faq: [{"question": "Can I speed up the drying process by opening windows and run
 published_at: "2026-06-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Most water damage restoration jobs take **3 to 5 days** from the moment a crew arrives to the point where the structure is dry enough for repairs. That's the honest middle-of-the-road answer. A small bathroom leak caught the same day it started might be dry in 48 hours. A slow roof leak that soaked into wall cavities for weeks before anyone noticed can stretch the drying phase alone to 7–10 days, and that's before a single piece of drywall gets replaced. The timeline depends on four things: how much water got in, where it went, how long it sat, and how quickly drying equipment got running.
 

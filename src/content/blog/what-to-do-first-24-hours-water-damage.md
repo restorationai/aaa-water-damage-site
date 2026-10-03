@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold start growing after water damage?", "a
 published_at: "2026-07-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 If water has entered your home, whether from a burst pipe, an appliance failure, or a roof leak during a heavy Honolulu rain, the decisions you make in the next 24 hours will determine how much damage you're left dealing with a week from now. Stop the source first, then move fast: mold can begin colonizing wet building materials in as little as 24 to 48 hours, and saturated drywall, insulation, and subfloor absorb water faster than most people expect. Here is a clear, step-by-step guide to what you should do right now.
 

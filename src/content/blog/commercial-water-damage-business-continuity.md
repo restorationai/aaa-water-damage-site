@@ -16,6 +16,7 @@ faq: [{"question": "How long does commercial water damage restoration typically 
 published_at: "2026-07-03"
 services: ["commercial-restoration", "water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 A burst pipe, a roof leak during a storm, a malfunctioning sprinkler head, commercial water damage can halt operations within hours and cost far more in lost revenue than it does in repair bills. The single most important thing a business owner or property manager can do is act in the first 24 to 48 hours, before saturated drywall starts to delaminate, before subfloor materials begin to buckle, and before mold has the opportunity to colonize. This guide walks through exactly what to do, what to avoid, and how to think about recovery in a way that keeps your business moving.
 

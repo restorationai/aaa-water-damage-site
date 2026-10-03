@@ -16,6 +16,7 @@ faq: [{"question": "Can mold be present even if I can't see or smell anything?",
 published_at: "2026-06-25"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Testing for mold in your home comes down to one key question: do you need to know *if* mold is present, or do you need to know *what kind*, *how much*, and *where it's spreading*? A $10 petri-dish kit from the hardware store can answer the first question, badly. A professional inspection with air sampling and moisture mapping can answer all of them. Here's what each approach actually tells you, where each one falls short, and how to decide which one your situation calls for.
 

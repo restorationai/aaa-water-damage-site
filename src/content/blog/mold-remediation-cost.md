@@ -17,6 +17,7 @@ faq: [{"question": "How much does mold remediation cost?", "answer": "Mold remed
 published_at: "2026-10-01"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Mold remediation typically costs anywhere from $500 for a small, contained spot on a single wall to $15,000 or more for a whole-house job with HVAC involvement. The number depends on how much square footage is affected, how complex the containment has to be, and how much material has to come out. On Oahu, remediation jobs often run larger than a mainland comparison quote suggests, because the humidity here means a water loss that wasn't fully dried shows up as mold spread through multiple rooms, not one wall.
 

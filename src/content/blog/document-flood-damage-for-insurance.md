@@ -17,6 +17,7 @@ faq: [{"question": "What should I photograph first after a flood for my insuranc
 published_at: "2026-09-12"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Document flood damage before you move or throw away anything. Photograph every affected room from four corners, capture close-ups of waterlines and damaged items, and build a written inventory with purchase dates and estimated values. If you have a National Flood Insurance Program (NFIP) policy, you have 60 days from the date of loss to submit a signed Proof of Loss form. Restoration crews document what they find and share that documentation with your adjuster, but the initial record is yours to create, and it starts the moment it is safe to re-enter.
 

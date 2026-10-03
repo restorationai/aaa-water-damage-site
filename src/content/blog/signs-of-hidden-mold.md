@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Christopher Pruett"
 ---
 Hidden mold doesn't always announce itself with a black stain on the wall. More often it grows quietly behind drywall, under flooring, inside HVAC ducts, or beneath bathroom tile, feeding on moisture that dried up weeks ago. In Honolulu's warm, humid climate, mold can begin colonizing a damp surface within 24 to 48 hours of a water event. If you've had a leak, a flood, or even a long stretch of heavy rain, these seven signs can help you figure out whether mold is already at work somewhere you can't see.
 

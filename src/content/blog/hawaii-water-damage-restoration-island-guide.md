@@ -17,6 +17,7 @@ faq: [{"question": "Why is water damage restoration more urgent in Hawaii than o
 published_at: "2026-08-17"
 services: ["water-damage-restoration", "flood-damage-restoration"]
 rendered: true
+author: "Christopher Pruett"
 ---
 **TL;DR:** Hawaii water damage restoration is more time-sensitive than almost anywhere on the mainland. Year-round tropical humidity means soaked drywall and carpet can show visible mold within 24 to 48 hours, regardless of the season. Single-wall construction wicks water into wall cavities fast, salt-air corrosion weakens valves and supply lines ahead of schedule, and high-rise riser failures in Honolulu can cascade through multiple units at once. Speed of extraction matters more here than almost anywhere else in the country.
 
