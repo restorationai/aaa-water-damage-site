@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Honolulu (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Honolulu (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in honolulu without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "de8edfa578675d1f"
 generated_at: "2026-07-09T05:49:46.009167+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Honolulu (Without Getting Burned)"}]
 faq: [{"question": "Should I call a restoration company or my insurance company first?", "answer": "Do both, but in this order: stop the source of damage if you safely can (shut off the water main, for example), then photograph everything before anything is moved or dried. Call your insurer to report the loss and understand your coverage, then call a restoration company to begin assessment. Waiting too long on the restoration side, even a day or two, can allow mold to establish in wet materials, which complicates both the remediation and the claim."}, {"question": "How do I know if a restoration company is actually drying my home correctly?", "answer": "Ask to see the daily moisture readings. A properly managed water damage job uses calibrated moisture meters and psychrometric data to track drying progress in each affected area. The readings should show a consistent downward trend toward the target moisture content for each material type. If a company can't produce those numbers, or tells you they 'just know' when it's dry, that's a problem. You should receive a completed drying log at the end of the job."}, {"question": "What's the difference between mold removal and mold remediation?", "answer": "Mold removal implies physically taking away visible mold, which doesn't address spores in the air or root structures (hyphae) embedded in porous materials. Remediation is a broader process: containment, removal of affected materials, HEPA vacuuming, antimicrobial treatment, and, critically, independent clearance testing to confirm spore counts are within normal ranges before the area is reopened. The distinction matters because incomplete treatment almost always leads to regrowth."}, {"question": "Is it safe to stay in my home during restoration work?", "answer": "It depends on the type and extent of damage. For minor water damage in a single room, staying home is usually fine as long as the affected area is accessible to technicians. For significant mold remediation, the containment process involves negative air pressure and HEPA filtration that can be disruptive, and some households, especially those with young children, elderly residents, or anyone with respiratory sensitivities, choose to stay elsewhere during active remediation. For fire damage, smoke residue and potential structural concerns often make temporary relocation the safer choice. Ask the company to walk you through the specific risks for your situation."}]
 published_at: "2026-06-30"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
