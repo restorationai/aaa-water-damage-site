@@ -43,7 +43,7 @@ export const brand = {
   // 2026-07-09. No specific founding year on file; foundedYear stays empty.
   trustBadges: ["Locally Owned", "25+ Years in Business", "24/7 Emergency Service"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.google.com/maps?cid=3582502366071795597", "https://www.facebook.com/26flood", "https://www.yelp.com/biz/aaa-water-damage-restoration-and-carpet-care-honolulu"] as string[],
+  sameAsUrls: ["https://www.google.com/maps?cid=3582502366071795597", "https://www.facebook.com/26flood", "https://www.yelp.com/biz/aaa-water-damage-restoration-and-carpet-care-honolulu", "https://www.facebook.com/fb-answers/aaa-carpet-cleaning-and-upholstery-services/?locale=ku_TR"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
