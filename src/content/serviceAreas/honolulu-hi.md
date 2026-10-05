@@ -35,7 +35,7 @@ Urban Honolulu is condo country. High-rise towers in Waikiki, Kakaako, and Ala M
 
 **Carpet and upholstery care** addresses both routine cleaning and the aftermath of a water event, important in a rental-heavy market like Waikiki where turnaround between guests doesn't leave room for a slow dry.
 
-**Biohazard and sewage cleanup** handles backups in older cast-iron drain lines common to pre-1980s buildings around Downtown Honolulu and Nuuanu, following IICRC-based decontamination protocols.
+**Biohazard and sewage cleanup** handles backups in older cast-iron drain lines common to pre-1980s buildings around Downtown Honolulu and Nuuanu, following industry-standard decontamination protocols.
 
 ## Coverage and how fast we can get there
 

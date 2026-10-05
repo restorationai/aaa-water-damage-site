@@ -75,6 +75,6 @@ Hawaii's warm, humid baseline also means mold can begin colonizing wet materials
 
 ## Service area
 
-AAA Water Damage Restoration & Carpet Care responds to emergency water removal and cleanup calls throughout Honolulu and the surrounding communities, including Pearl City, Aiea, Kailua, Kaneohe, Ewa Beach, Kapolei, and Mililani. Dedicated service-area pages for each community link back to this page for full process and pricing detail.
+AAA Water Damage Restoration & Carpet Care responds to emergency water removal and cleanup calls throughout Honolulu and the surrounding communities, including [Pearl City](/service-areas/pearl-city-hi/emergency-water-removal/), Aiea, [Kailua](/service-areas/kailua-hi/emergency-water-removal/), Kaneohe, Ewa Beach, Kapolei, and Mililani. Dedicated service-area pages for each community link back to this page for full process and pricing detail.
 
 If water is in your home right now, the next step is a moisture assessment, not a waiting game. Call AAA Water Damage Restoration & Carpet Care at (808) 349-3407 any time, day or night, to get extraction equipment moving toward your address.

@@ -56,6 +56,6 @@ Honolulu's climate creates water damage conditions that differ from the mainland
 
 ## Service area
 
-AAA Water Damage Restoration & Carpet Care responds to water damage calls across Honolulu and the surrounding communities, including Pearl City, Kailua, Kāneʻohe, ʻAiea, Mililani, and the North Shore. Dedicated service-area pages cover the specifics for each community.
+AAA Water Damage Restoration & Carpet Care responds to water damage calls across Honolulu and the surrounding communities, including [Pearl City](/service-areas/pearl-city-hi/water-damage-restoration/), [Kailua](/service-areas/kailua-hi/water-damage-restoration/), Kāneʻohe, ʻAiea, Mililani, and the North Shore. Dedicated service-area pages cover the specifics for each community.
 
 If you're watching water spread across your floor right now, call **(808) 349-3407**, the line is answered around the clock. The sooner extraction equipment is running, the more of your flooring, drywall, and personal property stays out of the dumpster. Schedule your moisture assessment today.
