@@ -55,6 +55,6 @@ Honolulu's trade winds keep many homes feeling comfortable, but they mask a humi
 
 ## Service area
 
-We respond to mold remediation calls throughout Honolulu and across Oahu, including Pearl City, Aiea, Kailua, Kaneohe, Ewa Beach, Mililani, and Hawaii Kai. The city-specific pages linked from this site cover local details for each area.
+We respond to mold remediation calls throughout Honolulu and across Oahu, including [Pearl City](/service-areas/pearl-city-hi/mold-remediation/), Aiea, [Kailua](/service-areas/kailua-hi/mold-remediation/), Kaneohe, Ewa Beach, Mililani, and Hawaii Kai. The city-specific pages linked from this site cover local details for each area.
 
 If you're seeing visible mold growth, smelling persistent musty odors, or dealing with the aftermath of a recent water event, call (808) 349-3407 to request an air quality assessment and get a clear picture of what's actually in your walls before the problem grows any further.
