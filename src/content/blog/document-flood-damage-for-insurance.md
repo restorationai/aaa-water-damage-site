@@ -72,7 +72,7 @@ For structural elements, your restoration contractor will provide a written scop
 
 ## What is the NFIP Proof of Loss deadline?
 
-If your flood coverage comes through the National Flood Insurance Program (NFIP), you must submit a signed Proof of Loss within 60 days of the date of loss. Missing this deadline can result in your claim being denied regardless of how strong your documentation is. [FloodSmart.gov](https://www.floodsmart.gov/start-your-claim) outlines the claims process and what the Proof of Loss form requires.
+If your flood coverage comes through the National Flood Insurance Program (NFIP), you must submit a signed Proof of Loss within 60 days of the date of loss. Missing this deadline can result in your claim being denied regardless of how strong your documentation is. [FloodSmart.gov](https://www.floodsmart.gov/recover/start-a-claim) outlines the claims process and what the Proof of Loss form requires.
 
 The Proof of Loss is a sworn statement of the amount you are claiming. It must be signed and submitted before the deadline, even if your adjuster has not yet completed their inspection. You can submit an amended Proof of Loss later if the scope changes, but the initial filing must happen on time.
 
@@ -109,7 +109,7 @@ You are not required to hire one. For straightforward losses with clear document
 
 Restoration contractors like AAA Water Damage are not public adjusters and do not negotiate your claim. What they provide is thorough on-site documentation: moisture readings, scope of work, equipment logs, and photo records of conditions found. That documentation goes to your adjuster and supports your claim. The claim itself is between you and your insurer.
 
-The Insurance Information Institute has a plain-English overview of the homeowners claims process at [iii.org](https://www.iii.org/article/how-file-homeowners-insurance-claim) if you want to understand what to expect at each stage.
+The Insurance Information Institute has a plain-English overview of the homeowners claims process at [iii.org](https://www.iii.org/article/settling-insurance-claims-after-a-disaster) if you want to understand what to expect at each stage.
 
 ## What to do right now
 

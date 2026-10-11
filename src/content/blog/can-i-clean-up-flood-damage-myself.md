@@ -25,7 +25,7 @@ You just watched water come in under your door, up through a floor drain, or pou
 
 ## Is flood water safe to clean up yourself?
 
-Flood water is not safe to handle without protective gear, and in most cases it is not appropriate for DIY cleanup at all. Water that enters a home from outside, including storm runoff, rising groundwater, and overflowing drainage, is classified as Category 3 water, also called black water. It carries bacteria, sewage, pesticides, and other contaminants picked up from every surface it touched on the way in. The [CDC's flood cleanup guidance](https://www.cdc.gov/floods/safety/cleanup-safely-after-a-disaster.html) is direct: flood water can contain sewage, chemical waste, and infectious organisms.
+Flood water is not safe to handle without protective gear, and in most cases it is not appropriate for DIY cleanup at all. Water that enters a home from outside, including storm runoff, rising groundwater, and overflowing drainage, is classified as Category 3 water, also called black water. It carries bacteria, sewage, pesticides, and other contaminants picked up from every surface it touched on the way in. The [CDC's flood cleanup guidance](https://www.cdc.gov/natural-disasters/safety/index.html) is direct: flood water can contain sewage, chemical waste, and infectious organisms.
 
 Category 3 is the same classification as raw sewage backup, and it gets that label for the same reason. You cannot look at flood water and know what is in it. Even water that looks clear after a storm has traveled through streets, gutters, and soil before it reached your floor.
 

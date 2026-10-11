@@ -29,7 +29,7 @@ Water damage restoration cost is determined by five factors: water category (cle
 
 Here's what each factor means in practice:
 
-**Water category** is the single biggest cost multiplier. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three categories:
+**Water category** is the single biggest cost multiplier. The [IICRC S500 standard](https://iicrc.org/s500/) defines three categories:
 
 - Category 1 (clean water): a burst supply line, a failed ice maker connection, an overflowing sink. Lowest contamination risk, lowest cost to remediate.
 - Category 2 (gray water): washing machine discharge, dishwasher overflow, aquarium water. Microbial contamination present; more PPE, more antimicrobial treatment.

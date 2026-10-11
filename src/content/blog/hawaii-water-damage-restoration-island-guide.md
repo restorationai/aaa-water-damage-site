@@ -25,7 +25,7 @@ If you just found water on your floor in Kakaako, Waikiki, Makiki, or anywhere e
 
 ## Why is water damage restoration in Hawaii different from the mainland?
 
-Hawaii water damage is more urgent than mainland losses because the tropical climate eliminates the buffer most homeowners assume they have. On the mainland, a slow leak discovered on a Friday might be manageable by Monday. In Honolulu, that same leak in August can produce visible mold growth within 24 to 48 hours because indoor humidity rarely drops below 60 to 70 percent, even with air conditioning running. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for professional water damage restoration recognizes that ambient humidity is a primary driver of secondary damage risk, and Hawaii's baseline humidity is among the highest in the United States year-round.
+Hawaii water damage is more urgent than mainland losses because the tropical climate eliminates the buffer most homeowners assume they have. On the mainland, a slow leak discovered on a Friday might be manageable by Monday. In Honolulu, that same leak in August can produce visible mold growth within 24 to 48 hours because indoor humidity rarely drops below 60 to 70 percent, even with air conditioning running. The [IICRC S500 standard](https://iicrc.org/s500/) for professional water damage restoration recognizes that ambient humidity is a primary driver of secondary damage risk, and Hawaii's baseline humidity is among the highest in the United States year-round.
 
 Beyond humidity, three structural realities make Oahu losses uniquely challenging:
 
