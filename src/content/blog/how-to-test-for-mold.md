@@ -45,7 +45,7 @@ A qualified mold inspector approaches your home as a system, not a single surfac
 4. **Surface or bulk sampling**, if a suspect area is found, tape lifts or physical samples confirm species and concentration.
 5. **Written report**, a professional inspection produces documentation you can give to a contractor, a landlord, or your insurance company.
 
-The distinction between a mold inspector and a mold remediator matters here. Ideally, the company that tests your home should not be the same company that remediates it, that's a conflict of interest. AAA Water Damage Restoration & Carpet Care offers [mold inspection and testing](/services/mold-inspection-testing/) as a service, and can help you understand what the results mean before any remediation decisions are made.
+Some homeowners prefer an independent third party for post-remediation clearance testing. AAA Water Damage Restoration & Carpet Care offers [mold inspection and testing](/services/mold-inspection-testing/) and can help you understand what the results mean before any remediation decisions are made.
 
 ## Situations That Warrant a Professional Inspection Right Away
 
