@@ -39,7 +39,7 @@ When we arrive, the first priority is stopping ongoing water entry, that means l
 
 Structural drying typically runs three to five days depending on how long the water was present before extraction began and how deeply it penetrated the subfloor or wall cavities. We monitor readings daily and document them, which matters both for your records and for the Association review process that many Mililani homeowners will need to navigate before closing out repairs.
 
-Once the structure is confirmed dry, we coordinate or perform the plumbing repair itself and handle any affected drywall, insulation, and flooring. Finish matching is something we take seriously in Mililani specifically: the community's strong HOA standards mean repairs need to look right, not just be structurally sound.
+Once the structure is confirmed dry, we coordinate with your plumber on the pipe repair and handle any affected drywall, insulation, and flooring. Finish matching is something we take seriously in Mililani specifically: the community's strong HOA standards mean repairs need to look right, not just be structurally sound.
 
 ## HOA Documentation and Mililani's Association Standards
 

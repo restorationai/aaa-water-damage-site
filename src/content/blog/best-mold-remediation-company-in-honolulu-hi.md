@@ -50,7 +50,7 @@ Atom Builders carries a strong 4.8 rating across 149 reviews, but its primary Go
 
 ### 4. 702 PlumbAIR
 
-702 PlumbAIR has the highest review volume on this list, a 4.9 rating from 1,574 reviews, which reflects a large HVAC and plumbing customer base. Its listed category is HVAC contractor. HVAC expertise is relevant when mold is tied to condensation or duct moisture, but it isn't the same specialty as IICRC-style mold containment and remediation work.
+702 PlumbAIR has the highest review volume on this list, a 4.9 rating from 1,574 reviews, which reflects a large HVAC and plumbing customer base. Its listed category is HVAC contractor. HVAC expertise is relevant when mold is tied to condensation or duct moisture, but it isn't the same specialty as mold containment and remediation work.
 
 ## Honolulu Mold Remediation: Quick Comparison
 
