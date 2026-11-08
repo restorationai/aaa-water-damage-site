@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | AAA Water Damage Restoration & Carpet Care Restoration"
+title: "Service Areas | AAA Water Damage Restoration & Carpet Care"
 h1: "Areas We Serve"
 meta_description: "AAA Water Damage Restoration & Carpet Care provides 24/7 restoration services across Honolulu and the surrounding region. Find your city."
 primary_keyword: "aaa water damage restoration & carpet care service areas"
