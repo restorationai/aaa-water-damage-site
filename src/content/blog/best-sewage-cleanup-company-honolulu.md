@@ -56,14 +56,14 @@ Roto-Rooter Plumbing & Water Cleanup is a plumber at 3049 Ualena St in Honolulu.
 
 ## How these companies compare
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes | Not listed |
-| SERVPRO of Downtown Honolulu/Team Maras | 4.9 | 117 | Not listed | Not listed |
-| SERVPRO of Central Honolulu, Kapolei | 4.2 | 13 | Not listed | Not listed |
-| SERVPRO of East Honolulu | 4.0 | 32 | Not listed | Not listed |
-| Hawaiian Isles Restoration | 5.0 | 24 | Not listed | Not listed |
-| Roto-Rooter Plumbing & Water Cleanup | 3.1 | 323 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes |
+| SERVPRO of Downtown Honolulu/Team Maras | 4.9 | 117 | Not listed |
+| SERVPRO of Central Honolulu, Kapolei | 4.2 | 13 | Not listed |
+| SERVPRO of East Honolulu | 4.0 | 32 | Not listed |
+| Hawaiian Isles Restoration | 5.0 | 24 | Not listed |
+| Roto-Rooter Plumbing & Water Cleanup | 3.1 | 323 | Not listed |
 
 ## Should you call a plumber or a restoration company first?
 

@@ -50,12 +50,12 @@ IAC2 holds a 5.0-star rating on Google from 1 review and is listed as a building
 
 ## How the options compare
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes | Not listed |
-| Servpro Industries LLC | 2.4 | 60 | Not listed | Not listed |
-| Columbia River Inspections | 5.0 | 84 | Not listed | Not listed |
-| IAC2 | 5.0 | 1 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes |
+| Servpro Industries LLC | 2.4 | 60 | Not listed |
+| Columbia River Inspections | 5.0 | 84 | Not listed |
+| IAC2 | 5.0 | 1 | Not listed |
 
 ## What should you actually look for in a mold inspection company?
 

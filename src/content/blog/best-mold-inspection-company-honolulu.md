@@ -50,13 +50,13 @@ Environmental Risk Analysis, on West Hind Drive in Honolulu, is categorized as a
 
 ## How Honolulu's Mold Inspection Options Compare
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes | Not listed |
-| Diamond Head Home Inspections | 4.8 | 176 | Not listed | Not listed |
-| Green Home Solutions of Hawaii | 5.0 | 29 | Not listed | Not listed |
-| Inspect Hawaii | 5.0 | 63 | Not listed | Not listed |
-| Environmental Risk Analysis | 5.0 | 3 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes |
+| Diamond Head Home Inspections | 4.8 | 176 | Not listed |
+| Green Home Solutions of Hawaii | 5.0 | 29 | Not listed |
+| Inspect Hawaii | 5.0 | 63 | Not listed |
+| Environmental Risk Analysis | 5.0 | 3 | Not listed |
 
 ## Should You Hire an Independent Inspector or a Restoration Company?
 

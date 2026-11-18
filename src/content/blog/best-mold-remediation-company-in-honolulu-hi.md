@@ -56,10 +56,10 @@ Atom Builders carries a strong 4.8 rating across 149 reviews, but its primary Go
 
 | Company | Google Rating | Reviews | 24/7 Emergency | Primary Category |
 |---|---|---|---|---|
-| AAA Water Damage Restoration & Carpet Care | Not published on file | Not published on file | Yes | Mold remediation & water damage restoration |
-| Servpro Industries LLC | 2.4 | 60 | Unknown | Water damage restoration service |
-| Atom Builders | 4.8 | 149 | Unknown | Roofing contractor |
-| 702 PlumbAIR | 4.9 | 1,574 | Unknown | HVAC contractor |
+| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes | Mold remediation & water damage restoration |
+| Servpro Industries LLC | 2.4 | 60 | Not listed | Water damage restoration service |
+| Atom Builders | 4.8 | 149 | Not listed | Roofing contractor |
+| 702 PlumbAIR | 4.9 | 1,574 | Not listed | HVAC contractor |
 
 ![Honolulu Mold Remediation: Quick Comparison: best mold remediation company in Honolulu, HI](/images/blog/2026/10/best-mold-remediation-company-in-honolulu-hi/section.webp)
 

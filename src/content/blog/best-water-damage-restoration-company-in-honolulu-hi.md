@@ -35,9 +35,9 @@ Call AAA Water Damage Restoration & Carpet Care directly at **(808) 349-3407** f
 
 | Company | Google Rating | Reviews | 24/7 Emergency | Local to Oahu |
 |---|---|---|---|---|
-| AAA Water Damage Restoration & Carpet Care |, |, | Yes | Yes, 25+ years |
-| NuFinishPro of San Diego | 5.0 | 259 |, |, |
-| Servpro Industries LLC | 2.4 | 60 |, |, |
+| AAA Water Damage Restoration & Carpet Care | Not listed | Not listed | Yes | Yes, 25+ years |
+| NuFinishPro of San Diego | 5.0 | 259 | Not listed | Not listed |
+| Servpro Industries LLC | 2.4 | 60 | Not listed | Not listed |
 
 ---
 
