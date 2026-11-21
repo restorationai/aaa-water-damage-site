@@ -28,6 +28,11 @@ export const brand = {
   foundedYear: "",
   primaryCity: "Honolulu",
   primaryState: "HI",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Honolulu, HI & Oahu",
+  serviceRegionDetail: "Aiea, Kaneohe, Pearl City, Ewa Beach, Kapolei, Mililani, Waianae, East Honolulu",
   streetAddress: "",
   postalCode: "96825",
   lat: "",
