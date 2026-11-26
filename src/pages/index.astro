@@ -24,7 +24,7 @@ import { workPairs } from "~/data/work";
 import { regionHeadline, regionSentence } from "~/lib/region";
 
 const entry = await getEntry("pages", "home");
-if (!entry) throw new Error("Missing content: pages/home.md — has Skill 3 rendered yet?");
+if (!entry) throw new Error("Missing content: pages/home.md, has Skill 3 rendered yet?");
 const { Content } = await entry.render();
 const data = entry.data;
 // SERVICE REGION (Santino 2026-11-19): the homepage speaks to the whole
@@ -83,7 +83,7 @@ const faqItems = homeFaq();
 
   <AboutSection imageSrc="/images/team.webp" imageAlt={`${brand.shortName} technicians with a truck-mounted extraction van on a Honolulu residential street`}>
     <p>
-      {brand.displayName} has been serving Oahu for over 25 years. We specialize in rapid-response water damage restoration and professional carpet care—handling everything from flood extraction and structural drying to mold remediation and deep carpet cleaning. When water strikes, our crew is standing by 24/7 to return your property to its pre-loss condition quickly and safely.
+      {brand.displayName} has been serving Oahu for over 25 years. We specialize in rapid-response water damage restoration and professional carpet care: handling everything from flood extraction and structural drying to mold remediation and deep carpet cleaning. When water strikes, our crew is standing by 24/7 to return your property to its pre-loss condition quickly and safely.
     </p>
   </AboutSection>
 
